@@ -17,6 +17,9 @@ export class Navbar extends Component {
                     <li className="mr-2 text-[18px] text-[#e6f0e6] hover:text-green-500">
                         <Link to="/">Home</Link>
                     </li>
+                    <li className="mr-2 text-[18px] text-[#e6f0e6] hover:text-green-500">
+                        <Link to="/user">User</Link>
+                    </li>
 
 
                 </ul>
