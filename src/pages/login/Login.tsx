@@ -21,10 +21,7 @@ export class Login extends Component {
                             <input className="float-right border-[1px] border-green-200" type={"email"}/>
                         </div>
 
-                        <div className="pb-2">
-                            <label className="text-[10px] pr-2 font-bold text-white">Given Name: </label>
-                            <input className="float-right border-[1px] border-green-200" type={""}/>
-                        </div>
+
 
                         <div className="pb-2">
                             <label className="text-[10px] pr-2 font-bold text-white">Middle Name: </label>
@@ -71,6 +68,11 @@ export class Login extends Component {
                         <div className="pb-2">
                             <label className="text-[10px] pr-2 font-bold text-white">Password: </label>
                             <input className="float-right border-[1px] border-green-200" type={"password"}/>
+                        </div>
+
+                        <div className="pb-2">
+                            <label className="text-[10px] pr-2 font-bold text-white">User Name: </label>
+                            <input className="float-right border-[1px] border-green-200" type={""}/>
                         </div>
 
                         <div className={"m-5"}>

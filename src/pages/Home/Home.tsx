@@ -13,6 +13,7 @@ export class Home extends Component {
                             <th className="px-4 sm:px-6 py-3 text-left text-xs sm:text-sm font-medium font-serif uppercase tracking-wider">E-mail</th>
                             <th className="px-4 sm:px-6 py-3 text-left text-xs sm:text-sm font-medium font-serif uppercase tracking-wider">Phone Number</th>
                             <th className="px-4 sm:px-6 py-3 text-left text-xs sm:text-sm font-medium font-serif uppercase tracking-wider">Password</th>
+                            <th className="px-4 sm:px-6 py-3 text-left text-xs sm:text-sm font-medium font-serif uppercase tracking-wider">UserName</th>
                         </tr>
                         </thead>
                         <tbody className="bg-white divide-y divide-gray-200">
