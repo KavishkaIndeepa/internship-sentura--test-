@@ -75,13 +75,13 @@ export class Login extends Component {
 
                         <div className={"m-5"}>
 
-                            <button className="text-[20px] text-[#e6f0e6] bg-green-400 pl-3 pr-3
+                            <button className="text-[20px] text-[#e6f0e6] bg-blue-600 pl-3 pr-3
                                    hover:text-gray-600 rounded-2xl mr-2">Add User</button>
 
-                            <button className="text-[20px] text-[#e6f0e6] bg-green-400 pl-3 pr-3
+                            <button className="text-[20px] text-[#e6f0e6] bg-blue-600 pl-3 pr-3
                                    hover:text-gray-600 rounded-2xl mr-2">Update User</button>
 
-                            <button className="text-[20px] text-[#e6f0e6] bg-green-400 pl-3 pr-3
+                            <button className="text-[20px] text-[#e6f0e6] bg-blue-600 pl-3 pr-3
                                    hover:text-gray-600 rounded-2xl">Delete User</button>
                         </div>
 
